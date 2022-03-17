@@ -99,7 +99,7 @@ CREATE TABLE region (
 	
 )
 
-CREATE TABLES pago (
+CREATE TABLE pago (
 	user_id varchar(12) PRIMARY KEY NOT NULL,
 	payday date,
 	
